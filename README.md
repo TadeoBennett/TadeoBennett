@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TadeoBennett
 - 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning Javascript and Flexbox
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on impactful web development projects
 - 📫 Contact me at tadeos.bennett@gmail.com
 
