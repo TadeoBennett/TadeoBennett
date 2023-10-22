@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tadeo Bennett
 - I’m currently learning JS and focusing more on React.
 - I love working on web applications using PHP.
-- I’m looking to work on impactful web development projects
+- I look forward to working on more impactful web development projects
 - Contact me at tadeos.bennett@gmail.com
 
 <!---
